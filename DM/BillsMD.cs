@@ -23,4 +23,3 @@ namespace MD
         public int DPrice { get; set; }
     }
 }
-// xin chao moi nguoi
